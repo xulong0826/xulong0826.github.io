@@ -1,3 +1,3 @@
-# xulong0826.github.io
+# hgh.github.io
 
-My [Personal Website](https://xulong0826.github.io) on GitHub, thanks to pianfan.
+My [Personal Website](https://HgH567/hgh.github.io) on GitHub, thanks to pianfan.
