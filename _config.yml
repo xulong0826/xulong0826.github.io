@@ -1,13 +1,8 @@
 name: "Xu Long 徐龙"
 description: "M.S. Student, Nanning Normal University"
 
-<<<<<<< HEAD
-avatar: https://pianfan.github.io/images/avatar.jpg
-favicon: https://pianfan.github.io/images/favicon.ico
-=======
 avatar: https://xulong0826.github.io/images/avatar.png
 favicon: https://xulong0826.github.io/images/favicon.ico
->>>>>>> recover-branch
 
 navigation:
   - name: Homepage
