@@ -7,10 +7,10 @@ favicon: https://xulong0826.github.io/images/favicon.ico
 navigation:
   - name: Homepage
     url: /
-  # - name: CV
-  #   url: /asset/xulong.pdf
-  - name: Blog
-    url: /blog
+  - name: CV
+    url: /cv/xulong.pdf
+  # - name: Blog
+  #   url: /blog
   - name: Google Scholar
     url: https://scholar.google.com
 
