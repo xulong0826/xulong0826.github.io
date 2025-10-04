@@ -8,7 +8,7 @@ navigation:
   - name: Homepage
     url: /
   - name: CV
-    url: /asset/xulong0826.pdf
+    url: /cv/xulong0826.pdf
   # - name: Blog
   #   url: /blog
   - name: Google Scholar
