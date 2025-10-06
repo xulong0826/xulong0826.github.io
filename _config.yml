@@ -9,8 +9,8 @@ navigation:
     url: /
   - name: CV
     url: /cv/xulong0826.pdf
-  # - name: Blog
-  #   url: /blog
+  - name: Blog
+    url: /blog
   - name: Google Scholar
     url: https://scholar.google.com
 
