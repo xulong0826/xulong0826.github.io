@@ -12,7 +12,7 @@ navigation:
   - name: Blog
     url: /blog
   - name: Google Scholar
-    url: https://scholar.google.com
+    url: https://scholar.google.com.hk/citations?user=HeL-w-YAAAAJ&hl=zh-CN&oi=sra #https://scholar.google.com
 
 paginate: 8
 
